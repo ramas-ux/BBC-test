@@ -8,5 +8,5 @@
     "outDir": "./dist",
     "types": ["jest"]
   },
-  "include": ["tests/**/*.ts"]
+  "include": ["tests/*.ts"]
 }
